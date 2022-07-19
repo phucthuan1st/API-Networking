@@ -6,7 +6,8 @@ https://developer.apple.com/documentation/foundation/url_loading_system/fetching
 ## URL request: 
 https://developer.apple.com/documentation/foundation/urlsessiondatatask
 
-## Thread safe networking: GCD Concurrent
+## Thread safe networking: 
+GCD Concurrent
 
 ## JSON: 
 https://developer.apple.com/swift/blog/?id=37
