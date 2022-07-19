@@ -18,7 +18,7 @@
 		51C5BBCD28866DB100E25614 /* API_NetworkingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C5BBCC28866DB100E25614 /* API_NetworkingUITestsLaunchTests.swift */; };
 		51C5BBDE2886942300E25614 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C5BBDD2886942300E25614 /* ListViewController.swift */; };
 		51C5BBE02886943000E25614 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C5BBDF2886943000E25614 /* MapViewController.swift */; };
-		51C5BBE22886AA7E00E25614 /* ApiHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C5BBE12886AA7E00E25614 /* ApiHandler.swift */; };
+		51C5BBE42886B52500E25614 /* ApiHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C5BBE32886B52500E25614 /* ApiHandler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +54,7 @@
 		51C5BBCC28866DB100E25614 /* API_NetworkingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_NetworkingUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		51C5BBDD2886942300E25614 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		51C5BBDF2886943000E25614 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
-		51C5BBE12886AA7E00E25614 /* ApiHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiHandler.swift; sourceTree = "<group>"; };
+		51C5BBE32886B52500E25614 /* ApiHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiHandler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,9 +108,9 @@
 				51C5BBA928866DAF00E25614 /* AppDelegate.swift */,
 				51C5BBAB28866DAF00E25614 /* SceneDelegate.swift */,
 				51C5BBAD28866DAF00E25614 /* RootViewController.swift */,
-				51C5BBE12886AA7E00E25614 /* ApiHandler.swift */,
 				51C5BBAF28866DAF00E25614 /* Main.storyboard */,
 				51C5BBDD2886942300E25614 /* ListViewController.swift */,
+				51C5BBE32886B52500E25614 /* ApiHandler.swift */,
 				51C5BBDF2886943000E25614 /* MapViewController.swift */,
 				51C5BBB228866DB100E25614 /* Assets.xcassets */,
 				51C5BBB428866DB100E25614 /* LaunchScreen.storyboard */,
@@ -268,7 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				51C5BBAE28866DAF00E25614 /* RootViewController.swift in Sources */,
-				51C5BBE22886AA7E00E25614 /* ApiHandler.swift in Sources */,
+				51C5BBE42886B52500E25614 /* ApiHandler.swift in Sources */,
 				51C5BBAA28866DAF00E25614 /* AppDelegate.swift in Sources */,
 				51C5BBDE2886942300E25614 /* ListViewController.swift in Sources */,
 				51C5BBE02886943000E25614 /* MapViewController.swift in Sources */,
